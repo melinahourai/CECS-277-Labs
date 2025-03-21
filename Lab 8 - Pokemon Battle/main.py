@@ -1,4 +1,3 @@
-# Names: Leilani Grimaldo, Melina Hourai, Paige Moua
 # Date: 3/20/2025
 # Group: 2
 # Purpose: Create a game where the user must defeat three pokemon to win the game.
