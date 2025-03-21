@@ -1,4 +1,3 @@
-# Paige Moua, Melina Hourai, Leilani Grimaldo
 # 2/13/2025
 # Group 2
 # Purpose: Create a program that allows the user to play a game of battleship
