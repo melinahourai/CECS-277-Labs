@@ -1,4 +1,3 @@
-# Names: Paige Moua, Leilani Grimaldo, Melina Hourai
 # Group: 2
 # Date: 3/13/2025
 # Purpose: A game where the user must defeat three dragons to pass the trials.
