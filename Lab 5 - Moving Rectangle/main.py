@@ -1,4 +1,3 @@
-# Paige Moua, Melina Hourai, Leilani Grimaldo
 # 2/27/2025
 # Group: 1
 # Purpose: Create a program that allows the user to move a rectangle around the grid
