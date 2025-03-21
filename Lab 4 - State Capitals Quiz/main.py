@@ -1,4 +1,3 @@
-# Paige Moua, Melina Hourai, Leilani Grimaldo
 # Group 3
 # 2/20/2025
 # Purpose: Create a program that quizzes the user on state capitals.
