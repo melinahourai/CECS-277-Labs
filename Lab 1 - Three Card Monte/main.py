@@ -1,4 +1,3 @@
-# Paige Moua & Melina Hourai
 # 1/28/25
 # Purpose: To create a program that will allow the user to play a game of Three Card Monte.
 import random
