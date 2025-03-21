@@ -1,5 +1,4 @@
-# Names: Paige Moua, Melina Hourai, Leilani Grimaldo
-# Date: 2/6/2024
+# Date: 2/6/2025
 # Purpose: A program that allows user to play Rock-Paper-Scissors against the computer, keeping score.
 import check_input
 import random
