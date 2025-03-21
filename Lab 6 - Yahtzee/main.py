@@ -1,4 +1,3 @@
-# Names: Paige Moua, Melina Hourai, Leilani Grimaldo
 # Group: 2
 # Date: 3/6/2025
 # Purpose: Create a dice game that awards the user points for a pair, three-of-a-kind, or a series.
