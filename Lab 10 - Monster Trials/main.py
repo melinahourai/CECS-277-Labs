@@ -1,6 +1,4 @@
-# Names: Paige Moua, Melina Hourai, Leilani Grimaldo
-# Date: 4/17/2025
-# Group: 2
+
 # Purpose: Create a game program where the user must defeat three monsters to pass the trials.
 
 import random
