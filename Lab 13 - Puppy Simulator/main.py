@@ -1,6 +1,4 @@
-# Names: Leilani Grimaldo, Melina Hourai, Paige Moua
-# Group: 2
-# Date: 5/8/2025
+
 # Purpose: Create a puppy simulator program that allows the user to feed or play with the puppy.
 
 import puppy
