@@ -1,6 +1,4 @@
-# Names: Melina Hourai, Leilani Grimaldo, Paige Moua
-# Date: 04/29/25
-# Group: 2
+
 # Purpose: Create a program that maintains a task list for the user
 
 import check_input
